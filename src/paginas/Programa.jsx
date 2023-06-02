@@ -3,8 +3,8 @@ const Información = () => {
   return (
     <>
     <div className=" bg-slate-900 py-5">
-                <section className="container bg-white  mx-auto  lg:w-4/5 rounded-lg " >
-                    <h2 className="py-5 pt-3 pl-5 text-lg font-extrabold text-center">Información General del Programa</h2>
+                <section className="container text-7xl bg-white  mx-auto  lg:w-4/5 rounded-lg " >
+                    <h2 className="py-5 pt-3 pl-5 text- font-extrabold text-center">Información General del Programa</h2>
                     <div className=" m-3 py-5 border-b border-gray-400">
                         <h3 className="py-2  font-bold">Objetivos</h3>
                         <p>Lograr un egresado capaz de manejar desde la dimensión teórica, el conocimiento referido al área de la empresa rural, con competencias para diseñar, ejecutar y evaluar investigaciones sustentadas sobre fundamentos teórico-metodológicos, orientado a la búsqueda de soluciones a los grandes problemas de la producción, financiamiento, transformación y comercialización de bienes y servicios de origen rural.</p>
